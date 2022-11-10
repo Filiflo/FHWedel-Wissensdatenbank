@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "278e2029b7390482",
+    "type": "split",
+    "children": [
+      {
+        "id": "8631cc8e6038213d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "23e300c7f1273e3e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "89c7daf338648671"
+          },
+          {
+            "id": "9bf66418f54305b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Wurzelrechenregeln.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "db68ec38f8a5216c"
+          },
+          {
+            "id": "21b78b2ce38bf19e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Potenzrechenregeln.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "8066eac965c65bc1"
+          }
+        ]
+      },
+      {
+        "id": "ad5204d2c4ba4598",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd8efb3944da109e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            },
+            "group": "89c7daf338648671"
+          },
+          {
+            "id": "a95b928e5c6748f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Wurzelrechenregeln.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "db68ec38f8a5216c"
+          },
+          {
+            "id": "3a236095e7ac59bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Analysis/Potenzrechenregeln.md",
+                "mode": "preview",
+                "source": false
+              }
+            },
+            "group": "8066eac965c65bc1"
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "57d7e6ee00559f5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c1b536da4f132bf9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfaeb22e8f925ddb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "86909a23b4e5e2ed",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2303eb436111f92c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7b85659c57599df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "8917be8c8e725a72",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "54b44733ad62d66c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "fbdc827519b2c653",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "58283badc020d5a1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6201509b62c6a7e6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "23e300c7f1273e3e",
+  "lastOpenFiles": [
+    "Analysis/Wurzelrechenregeln.md",
+    "README.md",
+    "Analysis/Potenzrechenregeln.md",
+    "Analysis/Binomische Formeln.md",
+    "Analysis/Mathe-Brückenkurs.md"
+  ]
+}
